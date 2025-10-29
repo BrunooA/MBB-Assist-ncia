@@ -5,7 +5,7 @@
 Este projeto foi desenvolvido em 2023 como parte do curso técnico em Informática.
 O sistema tem como objetivo gerenciar ordens de serviço de uma loja de manutenção de computadores e periféricos, facilitando o controle de clientes, técnicos, equipamentos e serviços realizados.
 
-O sistema foi desenvolvido em Java, aplicando conceitos de programação orientada a objetos (POO), cadastro de entidades, e persistência de dados (banco de dados ou arquivos, dependendo da versão).
+O sistema foi desenvolvido em Java, aplicando conceitos de programação orientada a objetos (POO), cadastro de entidades, e banco de dados.
 
 ⚙️ Funcionalidades Principais
 
@@ -22,7 +22,7 @@ Controle de Ordens de Serviço (OS)
 
 Criação, edição e exclusão de ordens
 
-Associação entre cliente, técnico e equipamento
+Associação entre cliente, técnico, equipamento e ods
 
 Registro de status (aberta, em andamento, concluída, cancelada)
 
@@ -37,6 +37,6 @@ Linguagem: Java
 
 Paradigma: Programação Orientada a Objetos (POO)
 
-Banco de Dados: (MySQL)
+Banco de Dados: MySQL
 
-IDE: (NetBeans)
+IDE: NetBeans
